@@ -1,6 +1,6 @@
 # Open-Data-Analytics
 
-##### Analytics can be categorized at a high level into three distinct types:
+### Analytics can be categorized at a high level into three distinct types:
 
 
 Descriptive Analytics, which use data aggregation and data mining to provide insight into the past and answer: “What has happened?”
