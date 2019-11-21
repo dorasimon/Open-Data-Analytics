@@ -1,4 +1,4 @@
-# Open-Data-Analytics
+# Open Data Analytics
 
 ### Analytics can be categorized at a high level into three distinct types:
 
